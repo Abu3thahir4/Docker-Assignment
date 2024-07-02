@@ -11,5 +11,7 @@
     <img src="./images.jpg" alt="Jenkins" />
 
     <h2>I will try to run this webapp on a Tomcat Server</h2>
+
+     <h1> This line has been added to show the roll out stragety in the kube </h1?
   </body>
 </html>
